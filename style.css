@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@layer components {
+  .card {
+    background: rgb(230, 229, 229);
+    border: 1px solid rgb(169, 164, 164);
+    border-radius: 10px;
+    padding: 10px;
+  }
+}
